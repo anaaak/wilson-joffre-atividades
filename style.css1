@@ -1,0 +1,6 @@
+body{
+  background-color: #A8E6E1
+}
+h1{
+text-align: center; font-family: sans-serif;
+}
